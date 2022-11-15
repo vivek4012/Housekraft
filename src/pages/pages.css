@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Bellefair&family=Glegoo:wght@400;700&family=Thasadith:wght@400;700&display=swap');
+.font1{
+    font-family: 'Abel', sans-serif;
+}
+.font2{
+    font-family: 'Glegoo', serif;
+
+}
+.font3{
+    font-family: 'Bellefair', serif;
+
+}
+.font4{
+    font-family: 'Thasadith', sans-serif;
+}
