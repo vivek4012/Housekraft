@@ -16,8 +16,8 @@ let data = [
         "https://firebasestorage.googleapis.com/v0/b/airbnb-auth-599df.appspot.com/o/kitchen%2F7-min.png?alt=media&token=f84fae23-40e2-4740-896f-be68bf9bcfa3",
         "https://firebasestorage.googleapis.com/v0/b/airbnb-auth-599df.appspot.com/o/kitchen%2F8-min.png?alt=media&token=50935048-6aac-4c0d-85be-7765f0918ec3",
       ],
-      basetext:["without island","with island","nothing selected ,please add to cart "],
-      toptext:["walnut finish","white finish","grey finish","cream and green fisnish","nothing selected ,please add to cart "],
+      basetext:["without island","with island",],
+      toptext:["walnut finish","white finish","grey finish","cream and green fisnish",],
       baseprice:[225000,275000],
       topprice:[10500,7500,13250,11500]
   
@@ -37,8 +37,8 @@ let data = [
         "https://firebasestorage.googleapis.com/v0/b/airbnb-auth-599df.appspot.com/o/living%2F7-min.png?alt=media&token=d52232b4-af7f-4da7-b173-3c2ebd53f63e",
         "https://firebasestorage.googleapis.com/v0/b/airbnb-auth-599df.appspot.com/o/living%2F8-min.png?alt=media&token=5cefa6d7-6277-4011-a424-4356572e75e8",
       ],
-      basetext:["white seater","brown seater","nothing selected ,please add to cart "],
-      toptext:["walnut finish","wild-oak finish","gray finish","pearl-white fisnish","nothing selected ,please add to cart "],
+      basetext:["white seater","brown seater",],
+      toptext:["walnut finish","wild-oak finish","gray finish","pearl-white fisnish",],
       baseprice:[125000,175000],
       topprice:[10500,7500,13250,11500]
     },
@@ -58,8 +58,8 @@ let data = [
         "https://firebasestorage.googleapis.com/v0/b/airbnb-auth-599df.appspot.com/o/bed%2Fbed_8-min.png?alt=media&token=16ea3079-290f-44c1-9124-134ea7971fe7",
   
       ],
-      basetext:["gray headboard","ivory headboard","nothing selected ,please add to cart "],
-      toptext:["beeding finish","walnut-glass finish","plain finish","gray-glass fisnish","nothing selected ,please add to cart "],
+      basetext:["gray headboard","ivory headboard",],
+      toptext:["beeding finish","walnut-glass finish","plain finish","gray-glass fisnish",],
       baseprice:[155000,215000],
       topprice:[10500,7500,13250,11500]
     },
@@ -78,8 +78,8 @@ let data = [
         "https://firebasestorage.googleapis.com/v0/b/airbnb-auth-599df.appspot.com/o/wardrobe%2Fw_7-min.png?alt=media&token=d4e8b801-fc80-47f5-8d75-7c3c2c937b52",
         "https://firebasestorage.googleapis.com/v0/b/airbnb-auth-599df.appspot.com/o/wardrobe%2Fw_8-min.png?alt=media&token=e3de58d9-c753-4faf-b317-b17a6f9ca9df",
       ],
-      basetext:["with dresser","without dresser","nothing selected ,please add to cart "],
-      toptext:["glass shutter","cream finish","pearl-white finish","glossy red fisnish","nothing selected ,please add to cart "],
+      basetext:["with dresser","without dresser",],
+      toptext:["glass shutter","cream finish","pearl-white finish","glossy red fisnish",],
       baseprice:[105000,115000],
       topprice:[10500,7500,13250,11500]
     },
