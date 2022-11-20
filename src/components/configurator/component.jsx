@@ -177,8 +177,8 @@ useEffect(() => {
         </div>
         <div className="my-12">
            
-          <p className="text-center my-2">Selected Design: {props.basetext}</p>
-          <p className="text-center my-2">Selected finish : {props.toptext} </p>
+          {props.basetext && <p className="text-center my-2">Selected Design: {props.basetext}</p>}
+         { <p className="text-center my-2">Selected finish : {props.toptext} </p>}
         </div>
 
 

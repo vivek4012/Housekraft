@@ -14,18 +14,18 @@ function Configurator(props) {
  let kitchenselection
  let kitchenselection2
 if(kitchen ===  undefined ){
-    kitchenselection=0
-    kitchenselection2=0
+    kitchenselection=2
+    kitchenselection2=4
 }else{
-    kitchenselection=kitchen.base
-    kitchenselection2=kitchen.top
+    kitchenselection= kitchen.base
+    kitchenselection2= kitchen.top
 }
  
 let tvselection
 let tvselection2
 if(tv ===  undefined ){
-    tvselection=0
-    tvselection2=0
+    tvselection=2
+    tvselection2=4
 }else{
     tvselection=tv.base
     tvselection2=tv.top
@@ -35,8 +35,8 @@ if(tv ===  undefined ){
 let bedselection
 let bedselection2
 if(bed ===  undefined ){
-    bedselection=0
-    bedselection2=0
+    bedselection=2
+    bedselection2=4
 }else{
     bedselection=bed.base
     bedselection2=bed.top
@@ -45,8 +45,8 @@ if(bed ===  undefined ){
 let foyerselection
 let foyerselection2
 if(foyer ===  undefined ){
-    foyerselection=0
-    foyerselection2=0
+    foyerselection=2
+    foyerselection2=4
 }else{
     foyerselection=foyer.base
     foyerselection2=foyer.top

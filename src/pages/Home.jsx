@@ -21,7 +21,7 @@ function Home() {
         <nav className="w-[85vw] h-[4rem] mx-auto flex justify-between items-center px-10">
           <section className="text-white">
             <span className="text-[18px]">House</span>
-            <span className="text-[18px] font-bold">Krafts</span></section>
+            <span className="text-[18px] font-bold">Kraft</span></section>
           <section className="flex text-white items-center">
             <div className="px-4 hidden md:flex">Blore India</div>
             <div className="px-4 hidden md:flex">+91 9686274029</div>
